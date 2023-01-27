@@ -1,0 +1,12 @@
+@font-face {
+    font-family: rick_and_morty;
+    src: url("../../assets/get-schwifty.ttf");
+}
+.Card{
+    background-color: azure;
+    border: solid rgb(6, 172, 163);
+    font-family: rick_and_morty;
+    width: 25em;
+    height: 30em;
+    border-radius: 2em;
+}
