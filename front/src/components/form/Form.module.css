@@ -1,0 +1,73 @@
+
+    *{
+         margin: 0;
+         padding: 0;
+         box-sizing: border-box;
+    }
+  
+   
+    .Form label .enviar{
+     color: rgb(219, 36, 36);
+     width: 70px;
+     border-radius: 4px; 
+        
+   }
+   .Form{
+    height: 300px;
+    background: black;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 14px 16px 50px rgb(206, 241, 5);
+    padding: 20px 30px;
+    border-top: 4px solid black;
+    color: rgb(75, 197, 150);
+   }
+   .Form h2{
+    color: white;
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+   }
+   .Form a{
+     color: rgb(206, 241, 5);
+   }
+    .Form button{
+      background: rgb(9, 161, 98);
+      border-radius: 6px;
+      width: 30%
+    }
+    .Form input{
+    position: relative;
+    }
+
+   .Form{
+     width: 30%;
+  border: 1px solid black;
+     border-radius: 12px; 
+    }
+    @media (min-width: 576px) {
+      .container, .container-sm {
+        max-width: 540px;
+      }
+    }
+    
+    @media (min-width: 768px) {
+      .container, .container-sm, .container-md {
+        max-width: 720px;
+      }
+    }
+    
+    @media (min-width: 992px) {
+      .container, .container-sm, .container-md, .container-lg {
+        max-width: 960px;
+      }
+    }
+    
+    @media (min-width: 1200px) {
+      .container, .container-sm, .container-md, .container-lg, .container-xl {
+        max-width: 1140px;
+      }
+    }

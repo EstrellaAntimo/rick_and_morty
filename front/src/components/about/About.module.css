@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.About h2{
+color: black;
+}
+
+.About h6{
+    color: black;
+    }
+
+.About {
+    background-color:rgb(20, 120, 214);
+    height: 150px;
+    border-radius: 12px;
+    box-shadow: 14px 16px 50px rgb(9, 161, 98);
+}

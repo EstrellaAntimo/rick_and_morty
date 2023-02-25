@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Nav a{
+    color: rgb(115, 82, 177);
+    background-color: rgb(31, 255, 2);
+    width: 90%;
+    border-radius: 6px; 
+    box-shadow: 11px 10px 50px   rgb(9, 161, 98);
+}
+
+.Nav div .about{
+    color: rgb(166, 255, 2);
+
+}
+.Nav{
+    height:200px;
+}
